@@ -120,6 +120,13 @@ public class Duck extends Animal implements Swimmable {
 ---
 
 ## Практика
+Примеры кода для запуска лежат в папке `src/lesson05/`:
+* `Animal.java` — абстрактный класс.
+* `Dog.java`, `Cat.java` — наследники.
+* `Swimmable.java` — интерфейс.
+* `Duck.java` — класс, реализующий интерфейс.
+* `MainInheritance.java` — точка входа для демонстрации.
+
 Переходите к [Заданиям](TASKS.md) для самостоятельной работы.
 
 ---
